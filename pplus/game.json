@@ -1,0 +1,18 @@
+{
+    "name": "Project+",
+    "shortName": "P+",
+    "aspectRatios": ["19:15", "16:9"],
+    "characterNames": {
+        "mr_game_and_watch": "Mr. Game & Watch",
+        "rob": "R.O.B.",
+        "zero_suit_samus": "Zero Suit Samus"
+    },
+    "characterLayout": [
+        ["mario", "luigi", "peach", "bowser", "wario", "yoshi", "donkey_kong", "diddy_kong", "captain_falcon", "ganondorf"],
+        ["falco", "fox", "wolf", "pit", "ice_climbers", "rob", "kirby", "meta_knight", "king_dedede", "olimar", "pikachu"],
+        ["squirtle", "ivysaur", "charizard", "lucario", "jigglypuff", "mewtwo", "marth", "roy", "ike", "link", "zelda"],
+        ["sheik", "toon_link", "samus", "zero_suit_samus", "snake", "sonic", "knuckles", "ness", "lucas", "mr_game_and_watch"]
+    ],
+    "portColors": ["#c96a6a", "#5f8fc4", "#cdb466", "#7ab07a"],
+    "teamColors": ["#c96a6a", "#5f8fc4", "#7ab07a"]
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Super Smash Bros. Melee",
+    "shortName": "Melee",
+    "aspectRatios": ["73:60", "16:9"],
+    "characterNames": {
+        "mr_game_and_watch": "Mr. Game & Watch",
+        "dr_mario": "Dr. Mario"
+    },
+    "characterLayout": [
+        ["dr_mario", "mario", "luigi", "bowser", "peach", "yoshi", "donkey_kong", "captain_falcon", "ganondorf"],
+        ["falco", "fox", "ness", "ice_climbers", "kirby", "samus", "zelda", "link", "young_link"],
+        ["pichu", "pikachu", "jigglypuff", "mewtwo", "mr_game_and_watch", "marth", "roy"]
+    ],
+    "portColors": ["#c96a6a", "#5f8fc4", "#cdb466", "#7ab07a"],
+    "teamColors": ["#c96a6a", "#5f8fc4", "#7ab07a"]
+}

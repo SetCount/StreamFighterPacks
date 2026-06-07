@@ -8,11 +8,12 @@
         "zero_suit_samus": "Zero Suit Samus"
     },
     "characterLayout": [
-        ["mario", "luigi", "peach", "bowser", "wario", "yoshi", "donkey_kong", "diddy_kong", "captain_falcon", "ganondorf"],
-        ["falco", "fox", "wolf", "pit", "ice_climbers", "rob", "kirby", "meta_knight", "king_dedede", "olimar", "pikachu"],
-        ["squirtle", "ivysaur", "charizard", "lucario", "jigglypuff", "mewtwo", "marth", "roy", "ike", "link", "zelda"],
-        ["sheik", "toon_link", "samus", "zero_suit_samus", "snake", "sonic", "knuckles", "ness", "lucas", "mr_game_and_watch"]
+        ["mario", "luigi", "peach", "wario", "yoshi", "bowser", "donkey_kong", "diddy_kong", "captain_falcon"],
+        ["fox", "falco", "wolf", "link", "toon_link", "zelda", "sheik", "ganondorf"],
+        ["pikachu", "jigglypuff", "mewtwo", "squirtle", "ivysaur", "charizard", "lucario", "samus", "zero_suit_samus"],
+        ["ness", "lucas", "kirby", "meta_knight", "king_dedede", "marth", "roy", "ike"],
+        ["mr_game_and_watch", "rob", "ice_climbers", "pit", "olimar", "snake", "sonic", "knuckles"]
     ],
-    "portColors": ["#c96a6a", "#5f8fc4", "#cdb466", "#7ab07a"],
+    "portColors": ["#c96a6a", "#5f8fc4", "#cdb466", "#7ab07a", "#8f2270", "#63208c", "#906020", "#228c72", "#808080", "#242424", "#c4c4c4"],
     "teamColors": ["#c96a6a", "#5f8fc4", "#7ab07a"]
 }
